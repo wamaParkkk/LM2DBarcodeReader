@@ -1,0 +1,312 @@
+[2023-06-12, 09:37:52] start reading barcode
+[2023-06-12, 09:37:54] Reader command : LON
+[2023-06-12, 09:37:59] start reading barcode
+[2023-06-12, 09:38:00] Reader command : LON
+[2023-06-12, 09:39:29] start reading barcode
+[2023-06-12, 09:39:30] Reader command : LON
+[2023-06-12, 09:41:11] start reading barcode
+[2023-06-12, 09:41:13] Reader command : LON
+[2023-06-12, 11:23:16] start reading barcode
+[2023-06-12, 11:23:16] Reader command : LON
+[2023-06-12, 11:23:39] start reading barcode
+[2023-06-12, 11:23:39] Reader command : LON
+[2023-06-12, 11:26:43] start reading barcode
+[2023-06-12, 11:26:44] Reader command : LON
+[2023-06-12, 11:27:00] start reading barcode
+[2023-06-12, 11:27:00] Reader command : LON
+[2023-06-12, 11:27:09] start reading barcode
+[2023-06-12, 11:27:09] Reader command : LON
+[2023-06-12, 11:27:13] start reading barcode
+[2023-06-12, 11:27:13] Reader command : LON
+[2023-06-12, 11:39:27] start reading barcode
+[2023-06-12, 11:39:27] Reader command : LON
+[2023-06-12, 11:39:27] Data : 18U609100U470705
+[2023-06-12, 11:39:32] start reading barcode
+[2023-06-12, 11:39:32] Reader command : LON
+[2023-06-12, 11:39:32] Data : 18U609100U470705
+[2023-06-12, 11:39:49] start reading barcode
+[2023-06-12, 11:39:49] Reader command : LON
+[2023-06-12, 11:39:49] Data : 18U609100U470705
+[2023-06-12, 11:39:53] start reading barcode
+[2023-06-12, 11:39:53] Reader command : LON
+[2023-06-12, 11:39:53] Data : 18U609100U470705
+[2023-06-12, 11:44:06] start reading barcode
+[2023-06-12, 11:44:06] Reader command : LON
+[2023-06-12, 11:44:06] Data : 18U609100U470705
+[2023-06-12, 11:44:11] start reading barcode
+[2023-06-12, 11:44:11] Reader command : LON
+[2023-06-12, 11:44:11] Data : 18U609100U470705
+[2023-06-12, 11:44:16] start reading barcode
+[2023-06-12, 11:44:16] Reader command : LON
+[2023-06-12, 11:44:16] Data : 18U609100U470705
+[2023-06-12, 11:44:32] start reading barcode
+[2023-06-12, 11:44:32] Reader command : LON
+[2023-06-12, 11:44:32] Data : 18U609100U470705
+[2023-06-12, 11:44:35] start reading barcode
+[2023-06-12, 11:44:35] Reader command : LON
+[2023-06-12, 11:44:35] Data : 18U609100U470705
+[2023-06-12, 11:44:38] start reading barcode
+[2023-06-12, 11:44:39] Reader command : LON
+[2023-06-12, 11:44:39] Data : 18U609100U470705
+[2023-06-12, 11:44:42] start reading barcode
+[2023-06-12, 11:44:42] Reader command : LON
+[2023-06-12, 11:44:42] Data : 18U609100U470705
+[2023-06-12, 11:44:46] start reading barcode
+[2023-06-12, 11:44:46] Reader command : LON
+[2023-06-12, 11:44:46] Data : 18U609100U470705
+[2023-06-12, 11:44:52] start reading barcode
+[2023-06-12, 11:44:52] Reader command : LON
+[2023-06-12, 11:44:52] Data : 18U609100U470705
+[2023-06-12, 11:44:55] start reading barcode
+[2023-06-12, 11:44:55] Reader command : LON
+[2023-06-12, 11:44:55] Data : 18U609100U470705
+[2023-06-12, 11:44:59] start reading barcode
+[2023-06-12, 11:44:59] Reader command : LON
+[2023-06-12, 11:44:59] Data : 18U609100U470705
+[2023-06-12, 11:45:02] start reading barcode
+[2023-06-12, 11:45:02] Reader command : LON
+[2023-06-12, 11:45:02] Data : 18U609100U470705
+[2023-06-12, 11:50:54] start reading barcode
+[2023-06-12, 11:50:54] Reader command : LON
+[2023-06-12, 11:50:54] Data : 18U609100U470705
+[2023-06-12, 11:51:17] start reading barcode
+[2023-06-12, 11:51:17] Reader command : LON
+[2023-06-12, 11:51:17] Data : 18U609100U470705
+[2023-06-12, 11:51:21] start reading barcode
+[2023-06-12, 11:51:21] Reader command : LON
+[2023-06-12, 11:51:21] Data : 18U609100U470705
+[2023-06-12, 11:51:25] start reading barcode
+[2023-06-12, 11:51:25] Reader command : LON
+[2023-06-12, 11:51:25] Data : 18U609100U470705
+[2023-06-12, 11:51:28] start reading barcode
+[2023-06-12, 11:51:28] Reader command : LON
+[2023-06-12, 11:51:28] Data : 18U609100U470705
+[2023-06-12, 11:51:30] start reading barcode
+[2023-06-12, 11:51:30] Reader command : LON
+[2023-06-12, 11:51:30] Data : 18U609100U470705
+[2023-06-12, 11:51:43] start reading barcode
+[2023-06-12, 11:51:43] Reader command : LON
+[2023-06-12, 11:51:43] Data : 18U609100U470705
+[2023-06-12, 11:51:47] start reading barcode
+[2023-06-12, 11:51:47] Reader command : LON
+[2023-06-12, 11:51:47] Data : 18U609100U470705
+[2023-06-12, 11:51:51] start reading barcode
+[2023-06-12, 11:51:51] Reader command : LON
+[2023-06-12, 11:51:51] Data : 18U609100U470705
+[2023-06-12, 11:51:54] start reading barcode
+[2023-06-12, 11:51:54] Reader command : LON
+[2023-06-12, 11:51:55] Data : 18U609100U470705
+[2023-06-12, 11:52:04] start reading barcode
+[2023-06-12, 11:52:04] Reader command : LON
+[2023-06-12, 11:52:04] Data : 18U609100U470705
+[2023-06-12, 13:07:11] start reading barcode
+[2023-06-12, 13:07:12] Reader command : LON
+[2023-06-12, 13:07:12] Data : 
+[2023-06-12, 13:29:59] start reading barcode
+[2023-06-12, 13:30:08] Reader command : LON
+[2023-06-12, 13:30:08] Data : 
+[2023-06-12, 13:34:37] start reading barcode
+[2023-06-12, 13:34:38] Reader command : LON
+[2023-06-12, 13:34:38] Data : 
+[2023-06-12, 13:34:39] Reader command : LON
+[2023-06-12, 13:34:39] Data : F02132838S131106
+[2023-06-12, 13:34:49] start reading barcode
+[2023-06-12, 13:34:50] Reader command : LON
+[2023-06-12, 13:34:50] Data : 
+[2023-06-12, 13:34:52] Reader command : LON
+[2023-06-12, 13:34:52] Data : 
+[2023-06-12, 13:34:54] Reader command : LON
+[2023-06-12, 13:34:54] Data : 
+[2023-06-12, 13:34:55] Reader command : LON
+[2023-06-12, 13:34:55] Data : F02132838S131106
+[2023-06-12, 13:35:01] start reading barcode
+[2023-06-12, 13:35:02] Reader command : LON
+[2023-06-12, 13:35:02] Data : 
+[2023-06-12, 13:35:04] Reader command : LON
+[2023-06-12, 13:35:04] Data : 
+[2023-06-12, 13:35:06] Reader command : LON
+[2023-06-12, 13:35:06] Data : 
+[2023-06-12, 13:35:08] Reader command : LON
+[2023-06-12, 13:35:08] Data : 
+[2023-06-12, 13:35:10] Reader command : LON
+[2023-06-12, 13:35:10] Data : 
+[2023-06-12, 13:35:12] Reader command : LON
+[2023-06-12, 13:35:12] Data : 
+[2023-06-12, 13:35:14] Reader command : LON
+[2023-06-12, 13:35:14] Data : 
+[2023-06-12, 13:35:15] Reader command : LON
+[2023-06-12, 13:35:15] Data : F02132838S131106
+[2023-06-12, 14:01:54] start reading barcode
+[2023-06-12, 14:01:54] Reader command : LON
+[2023-06-12, 14:01:54] Data : F02132838S131106
+[2023-06-12, 14:03:28] start reading barcode
+[2023-06-12, 14:03:29] Reader command : LON
+[2023-06-12, 14:03:29] Data : F02132838S131106
+[2023-06-12, 14:10:58] start reading barcode
+[2023-06-12, 14:10:59] Reader command : LON
+[2023-06-12, 14:10:59] Data : F02132838S131106
+[2023-06-12, 14:18:20] start reading barcode
+[2023-06-12, 14:18:20] Reader command : LON
+[2023-06-12, 14:18:20] Data : F02132838S131106
+[2023-06-12, 14:47:11] start reading barcode
+[2023-06-12, 14:47:12] Reader command : LON
+[2023-06-12, 14:47:12] Data : F02132838S131106
+[2023-06-12, 14:50:07] start reading barcode
+[2023-06-12, 14:50:07] Reader command : LON
+[2023-06-12, 14:50:07] Data : F02132838S131106
+[2023-06-12, 14:51:23] start reading barcode
+[2023-06-12, 14:51:24] Reader command : LON
+[2023-06-12, 14:51:24] Data : 
+[2023-06-12, 14:51:26] Reader command : LON
+[2023-06-12, 14:51:26] Data : F02132838S131106
+[2023-06-12, 14:52:50] start reading barcode
+[2023-06-12, 14:52:51] Reader command : LON
+[2023-06-12, 14:52:51] Data : F02132838S131106
+[2023-06-12, 14:53:32] start reading barcode
+[2023-06-12, 14:53:33] Reader command : LON
+[2023-06-12, 14:53:33] Data : 
+[2023-06-12, 14:53:35] Reader command : LON
+[2023-06-12, 14:53:35] Data : 
+[2023-06-12, 14:53:36] Reader command : LON
+[2023-06-12, 14:53:36] Data : F02132838S131106
+[2023-06-12, 14:53:42] start reading barcode
+[2023-06-12, 14:53:43] Reader command : LON
+[2023-06-12, 14:53:43] Data : F02132838S131106
+[2023-06-12, 14:53:46] start reading barcode
+[2023-06-12, 14:53:46] Reader command : LON
+[2023-06-12, 14:53:46] Data : F02132838S131106
+[2023-06-12, 14:53:50] start reading barcode
+[2023-06-12, 14:53:50] Reader command : LON
+[2023-06-12, 14:53:50] Data : F02132838S131106
+[2023-06-12, 14:53:56] start reading barcode
+[2023-06-12, 14:53:56] Reader command : LON
+[2023-06-12, 14:53:56] Data : F02132838S131106
+[2023-06-12, 14:54:01] start reading barcode
+[2023-06-12, 14:54:01] Reader command : LON
+[2023-06-12, 14:54:01] Data : F02132838S131106
+[2023-06-12, 14:54:10] start reading barcode
+[2023-06-12, 14:54:10] Reader command : LON
+[2023-06-12, 14:54:10] Data : F02132838S131106
+[2023-06-12, 14:54:15] start reading barcode
+[2023-06-12, 14:54:15] Reader command : LON
+[2023-06-12, 14:54:15] Data : F02132838S131106
+[2023-06-12, 14:54:38] start reading barcode
+[2023-06-12, 14:54:39] Reader command : LON
+[2023-06-12, 14:54:39] Data : F02132838S131106
+[2023-06-12, 14:55:18] start reading barcode
+[2023-06-12, 14:55:18] Reader command : LON
+[2023-06-12, 14:55:18] Data : F02132838S131106
+[2023-06-12, 14:55:21] Complete barcode reading
+[2023-06-12, 14:59:52] start reading barcode
+[2023-06-12, 14:59:52] Reader command : LON
+[2023-06-12, 14:59:52] Data : F02132838S131106
+[2023-06-12, 14:59:53] Lot_No : EYEQ4TEST=A
+DCC : 
+Operation_Code : 98
+Strip_Mark : NYT
+PDL : FM-ZE-784
+Target_Device : EA66*VB98AAX
+[2023-06-12, 14:59:53] Complete barcode reading
+[2023-06-12, 15:00:00] start reading barcode
+[2023-06-12, 15:00:00] Reader command : LON
+[2023-06-12, 15:00:00] Data : F02132838S131106
+[2023-06-12, 15:00:00] Lot_No : EYEQ4TEST=A
+DCC : 
+Operation_Code : 98
+Strip_Mark : NYT
+PDL : FM-ZE-784
+Target_Device : EA66*VB98AAX
+[2023-06-12, 15:00:01] Complete barcode reading
+[2023-06-12, 15:00:34] start reading barcode
+[2023-06-12, 15:00:34] Reader command : LON
+[2023-06-12, 15:00:34] Data : F02132838S131106
+[2023-06-12, 15:00:34] Lot_No : EYEQ4TEST=A
+DCC : 
+Operation_Code : 98
+Strip_Mark : NYT
+PDL : FM-ZE-784
+Target_Device : EA66*VB98AAX
+[2023-06-12, 15:00:34] Complete barcode reading
+[2023-06-12, 15:53:14] START READING BARCODE
+[2023-06-12, 15:53:15] Reader command : LON
+[2023-06-12, 15:53:15] Data : 
+[2023-06-12, 15:53:16] Reader command : LON
+[2023-06-12, 15:53:16] Data : 
+[2023-06-12, 15:53:18] Reader command : LON
+[2023-06-12, 15:53:18] Data : 
+[2023-06-12, 15:53:20] Reader command : LON
+[2023-06-12, 15:53:20] Data : 
+[2023-06-12, 15:53:22] Reader command : LON
+[2023-06-12, 15:53:22] Data : 
+[2023-06-12, 15:53:24] Reader command : LON
+[2023-06-12, 15:53:24] Data : 
+[2023-06-12, 15:53:25] Reader command : LON
+[2023-06-12, 15:53:25] Data : F02132838S131106
+[2023-06-12, 15:53:27] Lot_No : EYEQ4TEST=A
+DCC : 
+Operation_Code : 98
+Strip_Mark : NYT
+PDL : FM-ZE-784
+Target_Device : EA66*VB98AAX
+[2023-06-12, 15:53:27] COMPLETE BARCODE READING
+[2023-06-12, 16:47:22] START READING BARCODE
+[2023-06-12, 16:47:23] Reader command : LON
+[2023-06-12, 16:47:23] Data : 
+[2023-06-12, 16:47:24] Reader command : LON
+[2023-06-12, 16:47:24] Data : 
+[2023-06-12, 16:47:26] Reader command : LON
+[2023-06-12, 16:47:26] Data : 
+[2023-06-12, 16:47:27] Barcode read time out : 3 sec..
+[2023-06-12, 16:47:27] COMPLETE BARCODE READING
+[2023-06-12, 16:50:41] START READING BARCODE
+[2023-06-12, 16:50:42] Reader command : LON
+[2023-06-12, 16:50:42] Data : 
+[2023-06-12, 16:50:43] Reader command : LON
+[2023-06-12, 16:50:43] Data : 
+[2023-06-12, 16:50:45] Reader command : LON
+[2023-06-12, 16:50:45] Data : 
+[2023-06-12, 16:50:46] Barcode read time out : 3 sec..
+[2023-06-12, 16:50:53] START READING BARCODE
+[2023-06-12, 16:50:53] Reader command : LON
+[2023-06-12, 16:50:53] Data : F02132838S131106
+[2023-06-12, 16:50:54] Lot_No : EYEQ4TEST=A
+DCC : 
+Operation_Code : 98
+Strip_Mark : NYT
+PDL : FM-ZE-784
+Target_Device : EA66*VB98AAX
+[2023-06-12, 16:50:54] COMPLETE BARCODE READING
+[2023-06-12, 16:51:14] START READING BARCODE
+[2023-06-12, 16:51:15] Reader command : LON
+[2023-06-12, 16:51:15] Data : 
+[2023-06-12, 16:51:16] Reader command : LON
+[2023-06-12, 16:51:16] Data : 
+[2023-06-12, 16:51:17] Reader command : LON
+[2023-06-12, 16:51:17] Data : F02132838S131106
+[2023-06-12, 16:51:19] Lot_No : EYEQ4TEST=A
+DCC : 
+Operation_Code : 98
+Strip_Mark : NYT
+PDL : FM-ZE-784
+Target_Device : EA66*VB98AAX
+[2023-06-12, 16:51:19] COMPLETE BARCODE READING
+[2023-06-12, 16:51:30] START READING BARCODE
+[2023-06-12, 16:51:31] Reader command : LON
+[2023-06-12, 16:51:31] Data : F02132838S131106
+[2023-06-12, 16:51:31] Lot_No : EYEQ4TEST=A
+DCC : 
+Operation_Code : 98
+Strip_Mark : NYT
+PDL : FM-ZE-784
+Target_Device : EA66*VB98AAX
+[2023-06-12, 16:51:32] COMPLETE BARCODE READING
+[2023-06-12, 16:54:49] START READING BARCODE
+[2023-06-12, 16:54:49] Reader command : LON
+[2023-06-12, 16:54:49] Data : F02132838S131106
+[2023-06-12, 16:54:50] Lot_No : EYEQ4TEST=A
+DCC : 
+Operation_Code : 98
+Strip_Mark : NYT
+PDL : FM-ZE-784
+Target_Device : EA66*VB98AAX
+[2023-06-12, 16:54:50] COMPLETE BARCODE READING

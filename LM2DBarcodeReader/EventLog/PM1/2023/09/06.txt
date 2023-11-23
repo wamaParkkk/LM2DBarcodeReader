@@ -1,0 +1,49 @@
+[2023-09-06, 17:14:09] START READING BARCODE
+[2023-09-06, 17:14:17] Reader command : LON
+[2023-09-06, 17:14:17] Data : 
+[2023-09-06, 17:14:50] Data : U213999732121
+[2023-09-06, 17:15:02] Data : 
+[2023-09-06, 17:18:49] START READING BARCODE
+[2023-09-06, 17:18:55] Reader command : LON
+[2023-09-06, 17:18:55] Data : 
+[2023-09-06, 17:19:09] Stopped reading barcode : Abort
+[2023-09-06, 17:19:16] START READING BARCODE
+[2023-09-06, 17:19:19] Reader command : LON
+[2023-09-06, 17:19:19] Data : 
+[2023-09-06, 17:19:19] Data : 
+[2023-09-06, 17:19:20] Data : 
+[2023-09-06, 17:19:21] Data : 
+[2023-09-06, 17:19:22] Data : 
+[2023-09-06, 17:19:23] Barcode read time out : 5 sec..
+[2023-09-06, 17:19:42] START READING BARCODE
+[2023-09-06, 17:19:42] Reader command : LON
+[2023-09-06, 17:19:42] Data : 
+[2023-09-06, 17:19:42] Data : 
+[2023-09-06, 17:19:43] Data : 
+[2023-09-06, 17:19:44] Data : 
+[2023-09-06, 17:19:45] Data : 
+[2023-09-06, 17:19:46] Barcode read time out : 5 sec..
+[2023-09-06, 17:22:03] START READING BARCODE
+[2023-09-06, 17:22:03] Reader command : LON
+[2023-09-06, 17:22:15] Data : 
+[2023-09-06, 17:22:16] Stopped reading barcode : Abort
+[2023-09-06, 17:22:30] START READING BARCODE
+[2023-09-06, 17:22:30] Reader command : LON
+[2023-09-06, 17:22:38] Data : 
+[2023-09-06, 17:23:02] Stopped reading barcode : Abort
+[2023-09-06, 17:25:04] START READING BARCODE
+[2023-09-06, 17:25:04] Reader command : LON
+[2023-09-06, 17:25:21] Data : 
+[2023-09-06, 17:28:49] START READING BARCODE
+[2023-09-06, 17:28:49] Reader command : LON
+[2023-09-06, 17:28:56] Data : 
+[2023-09-06, 17:35:13] START READING BARCODE
+[2023-09-06, 17:35:13] Reader command : LON
+[2023-09-06, 17:35:22] Data : 
+[2023-09-06, 17:35:51] Stopped reading barcode : Abort
+[2023-09-06, 17:35:56] START READING BARCODE
+[2023-09-06, 17:35:56] Reader command : LON
+[2023-09-06, 17:37:18] START READING BARCODE
+[2023-09-06, 17:37:18] Reader command : LON
+[2023-09-06, 17:37:28] Data : 
+[2023-09-06, 17:37:39] Stopped reading barcode : Abort
